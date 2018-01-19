@@ -11,7 +11,7 @@ C++0x 线程支持处于实验阶段。
 The C++0x thread support is currently experimental.  
 All the other features including once-initialization, mutex, recursive mutex, condition variable and thread local storage (TLS) have been implemented.  
 
-该项目是从 [MCF CRT](https://github.com/lhmouse/MCF/tree/master/MCFCRT>) 中 fork 出来的。  
+该项目是从 [MCF CRT](https://github.com/lhmouse/MCF/tree/master/MCFCRT) 中 fork 出来的。  
 This project was forked from [MCF CRT](https://github.com/lhmouse/MCF/tree/master/MCFCRT).  
 
 ** WARNING **  
